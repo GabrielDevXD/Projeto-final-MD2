@@ -22,4 +22,4 @@ da 10 chorei fazendo
 
 <h1>Minhas redes</h1>
 
-<p>Linkedln:<a href="https://www.linkedin.com/in/gabrieldevxd/">E o tanjas</a></p>
+<p>Linkedln:<a href="https://www.linkedin.com/in/gabrieldevxd/">segue ae paezao</a></p>
